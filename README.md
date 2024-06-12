@@ -7,7 +7,7 @@ Welcome to the Text-to-Speech Web Application! This project allows you to conver
 - Convert text to speech using the Web Speech API
 - Choose from different voices available in the browser
 - Choose different language for more speech 
-- Adjust the pitch and rate of the speech
+- Adjust the language and gender of the speech
 - User-friendly interface
 
 
