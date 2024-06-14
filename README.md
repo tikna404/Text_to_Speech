@@ -40,7 +40,7 @@ Contributions are what make the open source community such an amazing place to l
 * Push to the Branch (`git push origin feature/AmazingFeature`)
 * Open a Pull Request
 ## License
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [`LICENSE`](https://choosealicense.com/licenses/mit/) for more information.
 ## Contact
 tikna404  - ankitp2104@gmail.com
 
