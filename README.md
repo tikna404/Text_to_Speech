@@ -27,8 +27,9 @@ git clone https://github.com/tikna404/Text_to_Speech.git
 ## Open the project
 Navigate to the project directory and open the `index.html` file in your browser.
 ## Usage
-* Open the index.html file in your browser.
+* Open the `index.html` file in your browser.
 * Enter the text you want to convert to speech in the text toggle area.
+* Some preloaded voice are installed.
 * Select the voice from the available options.
 * Click the "**Speak**" button to hear the text.
 
